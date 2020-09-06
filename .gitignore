@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/StudentApplication/.vs/StudentApplication
+/StudentApplication/StudentApplication/bin/Debug/netcoreapp3.1
+/StudentApplication/StudentApplication/obj
